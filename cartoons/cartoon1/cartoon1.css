@@ -25,9 +25,9 @@ body {
 }
 
 .text {
-  position: absolute;
-  top: 60vmin;
-  left: 70vmin;
+  position: relative;
+  top: 56vmin;
+  left: 14vmin;
 }
 /* shape */
 .shape {
